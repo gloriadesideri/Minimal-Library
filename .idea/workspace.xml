@@ -1,9 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b24c5e2-0aea-426f-b661-836879a17161" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Body/body.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BookCard/BookCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BookCard/bookCard.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BooksDisplay/BooksDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BooksDisplay/booksdisplay.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/NoMatch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Body.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BookCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BooksDisplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1c9xZ01P0j4Ndn7tdStVeqJloQm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Start2Impact\minimal-library\src\components\BookCard" />
+      <recent name="C:\Users\User\Documents\Start2Impact\minimal-library\src\components\BooksDisplay" />
+      <recent name="C:\Users\User\Documents\Start2Impact\minimal-library\src\components\Body" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Documents\Start2Impact\minimal-library\src\css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b24c5e2-0aea-426f-b661-836879a17161" name="Default Changelist" comment="" />
+      <created>1589954661815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589954661815</updated>
+      <workItem from="1589954664397" duration="1043000" />
+      <workItem from="1589956339002" duration="1996000" />
+      <workItem from="1590127362442" duration="4197000" />
+      <workItem from="1590269986062" duration="4399000" />
+      <workItem from="1590564192359" duration="965000" />
+      <workItem from="1590609419703" duration="5446000" />
+      <workItem from="1591083585783" duration="14466000" />
+      <workItem from="1592426334276" duration="3267000" />
+      <workItem from="1592856320110" duration="3979000" />
+      <workItem from="1592944376496" duration="1744000" />
+      <workItem from="1593097524891" duration="16120000" />
+      <workItem from="1593341861668" duration="7893000" />
+      <workItem from="1593688060935" duration="4719000" />
+      <workItem from="1594118346645" duration="15788000" />
+      <workItem from="1594234197776" duration="5022000" />
+      <workItem from="1594317482968" duration="5760000" />
+      <workItem from="1594390173499" duration="6368000" />
+      <workItem from="1595021343697" duration="259000" />
+      <workItem from="1595096253068" duration="599000" />
+      <workItem from="1598188597056" duration="49000" />
+      <workItem from="1599500111024" duration="2422000" />
+      <workItem from="1599544834634" duration="7998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="78" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593194269854">
+      <screen x="0" y="0" width="1333" height="849" />
+    </state>
+    <state x="78" y="173" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1333.849@0.0.1333.849" timestamp="1593194269854" />
+    <state x="122" y="181" key="FileChooserDialogImpl" timestamp="1592127597036">
+      <screen x="0" y="0" width="1333" height="849" />
+    </state>
+    <state x="122" y="181" key="FileChooserDialogImpl/0.0.1333.849@0.0.1333.849" timestamp="1592127597036" />
+    <state x="177" y="69" key="SettingsEditor" timestamp="1599544889331">
+      <screen x="0" y="0" width="1333" height="849" />
+    </state>
+    <state x="177" y="69" key="SettingsEditor/0.0.1333.849@0.0.1333.849" timestamp="1599544889331" />
   </component>
 </project>

@@ -1,15 +1,25 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 import Header from './components/Header'
 import Footer from './components/Footer'
-import Body from './components/Body'
+import "bootstrap/dist/css/bootstrap.min.css";
+import "shards-ui/dist/css/shards.min.css"
+import Body from './components/Body/Body'
+import NoMatch from "./views/NoMatch";
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+
 
 function App() {
   return (
-    <div className="App">
+      <Router>
+        <div className="App">
+          <Switch>
+          <Route exact path={'/'} component={Body}/>
+          <Route component={NoMatch}/>
+            </Switch>
 
-    <Body/>
-    </div>
+        </div>
+      </Router>
   );
 }
 
